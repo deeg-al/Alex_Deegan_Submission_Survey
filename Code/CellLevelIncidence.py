@@ -425,3 +425,4 @@ validated_results = validate_simulated_incidence(qualification_outcomes, categor
 print(validated_results[["category_id", "category_name", "incidence_rate", "simulated_incidence", "abs_error"]])    
 
 validated_results.to_csv("../Reports/validated_category_incidence.csv", index=False)
+category_cell_probs.to_csv("../Data/category_cell_probabilities.csv", index=False)
