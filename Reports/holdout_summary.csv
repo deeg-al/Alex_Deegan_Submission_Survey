@@ -1,0 +1,2 @@
+policy_name,avg_respondents_used,p95_respondents_used,prob_all_categories_hit_target,avg_min_completes,avg_mean_interview_seconds,p95_mean_interview_seconds,avg_p95_interview_seconds,avg_surveys_per_respondent,avg_share_2plus_surveys,avg_share_3plus_surveys,avg_max_exposure_deviation
+giant_bundle_multi_survey_capped,3772.0,3780.4,1.0,200.0,444.2184684224,444.9015389673789,478.67707120163834,4.08272425683364,0.964423628550335,0.9564725601659619,0.0

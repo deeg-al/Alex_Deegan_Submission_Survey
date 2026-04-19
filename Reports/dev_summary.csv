@@ -1,0 +1,4 @@
+policy_name,avg_respondents_used,p95_respondents_used,prob_all_categories_hit_target,avg_min_completes,avg_mean_interview_seconds,p95_mean_interview_seconds,avg_p95_interview_seconds,avg_surveys_per_respondent,avg_share_2plus_surveys,avg_share_3plus_surveys,avg_max_exposure_deviation
+giant_bundle_multi_survey_capped,3772.6,3780.65,1.0,200.0,444.1482041344874,445.40509624816576,478.7135959723382,4.0820784716332446,0.9640616146693327,0.9567178418996548,0.0
+giant_bundle_one_survey,15423.6,15432.15,1.0,200.0,108.63795474289164,108.67810558762133,166.93138863891363,0.998469997469455,0.0,0.0,0.0
+naive_separate,40921.3,41482.15,1.0,200.0,40.94962470135015,41.434020896570956,159.65092059457675,0.37635991738520397,0.0,0.0,0.0
